@@ -50,7 +50,7 @@ There’s nothing like the dopamine rush of seeing a project go live! 🚀
 <div align="center">  
   <!-- Languages & Streak -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njau-dev&layout=compact&theme=dark&hide_border=true" />  
-  <img width="49%" src="https://streak-stats.demolab.com?user=Njau-dev&theme=dark&hide_border=true" />  
+  <img width="49%" src="https://streak-stats.demolab.com?user=Njau-dev&theme=dark&hide_border=true&background=0D1117" /> 
 </div>  
 
 ---
