@@ -50,7 +50,7 @@ There’s nothing like the dopamine rush of seeing a project go live! 🚀
 <div align="center">  
   <!-- Languages & Streak -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njau-dev&layout=compact&theme=dark&hide_border=true" />  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Njau-dev&theme=react-dark&hide_border=true&area=true)
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Njau-dev&theme=react-dark&hide_border=true" />
 </div>  
 
 ---
