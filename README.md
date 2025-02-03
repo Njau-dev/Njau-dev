@@ -22,13 +22,13 @@ There’s nothing like the dopamine rush of seeing a project go live! 🚀
 
 ### 🔗 **Connect With Me**  
 <div align="left">  
-  <a href="[https://www.linkedin.com/in/jeff-njau-a42754198/]">
+  <a href="https://www.linkedin.com/in/jeff-njau-a42754198/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="[https://x.com/dzeph01]">
+  <a href="https://x.com/dzeph01">
     <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="Twitter/X">
   </a>
-  <a href="[https://www.frontendmentor.io/profile/Njau-dev]">
+  <a href="https://www.frontendmentor.io/profile/Njau-dev">
     <img src="https://img.shields.io/badge/Frontend Mentor-3F54A3?logo=frontendmentor&logoColor=white" alt="Frontend Mentor">
   </a>
   <a href="[Your Portfolio]">
