@@ -55,12 +55,6 @@ There’s nothing like the dopamine rush of seeing a project go live! 🚀
 
 ---
 
-### 🚀 **Featured Projects**  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Njau-dev&repo=school-system&theme=dark)](https://github.com/Njau-dev/school-system)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Njau-dev&repo=easybank&theme=dark)](https://github.com/Njau-dev/easybank)  
-
----
-
 ### 👀 **Profile Views**  
 <div align="center">  
   <img src="https://komarev.com/ghpvc/?username=Njau-dev&color=blue&style=flat" alt="Profile Views" />  
