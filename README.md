@@ -31,7 +31,7 @@ There’s nothing like the dopamine rush of seeing a project go live! 🚀
   <a href="https://www.frontendmentor.io/profile/Njau-dev">
     <img src="https://img.shields.io/badge/Frontend Mentor-3F54A3?logo=frontendmentor&logoColor=white" alt="Frontend Mentor">
   </a>
-  <a href="[Your Portfolio]">
+  <a href="https://njau-dev-portfolio.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-FF4088?logo=react&logoColor=white" alt="Portfolio">
   </a>  
 </div>  
