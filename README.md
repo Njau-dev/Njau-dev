@@ -6,7 +6,7 @@ There’s nothing like the dopamine rush of seeing a project go live! 🚀
 *Always learning, always building.*  
 
 
-*Portfolio* -   <a href="https://njau-dev-portfolio.netlify.app"/>
+<a href="https://njau-dev-portfolio.netlify.app"> *Portfolio*  </a>
 
 ---
 
