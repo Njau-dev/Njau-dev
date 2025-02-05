@@ -5,6 +5,9 @@ I thrive on crafting beautiful, responsive designs and bringing them to life wit
 There’s nothing like the dopamine rush of seeing a project go live! 🚀  
 *Always learning, always building.*  
 
+
+*Portfolio* -   <a href="https://njau-dev-portfolio.netlify.app"/>
+
 ---
 
 ### 🌱 **Currently...**  
