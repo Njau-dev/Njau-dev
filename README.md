@@ -44,7 +44,7 @@ There’s nothing like the dopamine rush of seeing a project go live! 🚀
 ### 📊 **GitHub Analytics**  
 <div align="center">  
   <!-- Stats & Trophies Row -->
-  <a href="https://github.com/JeffNjau">
+  <a href="https://github.com/Njau-dev">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Njau-dev&show_icons=true&theme=dark&hide_border=true" />
     <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Njau-dev&theme=onedark&no-frame=true&row=2&column=4" />
   </a>  
