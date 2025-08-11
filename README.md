@@ -19,7 +19,7 @@ There’s nothing like the dopamine rush of seeing a project go live! 🚀
 
 ### 🛠️ **Languages & Tools**  
 <div align="left">  
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,js,html,css,py,flask,mysql,postgresql,git,vercel,figma" />  
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,js,html,css,py,flask,mysql,postgresql,git,figma" />  
 </div>  
 
 
